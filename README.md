@@ -1,3 +1,3 @@
 <p align="center">
-    <samp>Welcome!</samp></br>
+    <samp>Hi, I'm Timotej!</samp></br>
 </p>
